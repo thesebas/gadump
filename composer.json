@@ -1,0 +1,12 @@
+{
+    "name": "thesebas/ga",
+    "require": {
+        "google/apiclient": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "thesebas",
+            "email": "thesebas@users.noreply.github.com"
+        }
+    ]
+}
